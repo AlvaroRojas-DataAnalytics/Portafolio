@@ -252,7 +252,7 @@ body.dark .search-field i{
   left: -0%;
   } 
  
-  nav.active .nav-bar .navlogo a{
+  nav.active .nav-bar .navLogo a{
     opacity: 0;
     transition: all 0.3s ease;
   }
